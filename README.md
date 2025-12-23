@@ -1,45 +1,89 @@
-# Mini projects in C#
-
-## Project Lists
-1. Calculator App
-2. 
+## C# Mini Projects
 <br />
 
 
 
-## Installation & Setup
-1. **Clone the repository** using git command --> git clone https://github.com/your-username/CalculatorApp.git
-2. Navigate to project directory --> cd CalculatorApp
-3. Open .sln file by double clicking through Visual Studio. (Ensure .NET Framework or .NET Core installed in your local machine.)
-4. Press F5 or click start to build and run the application.
+### 📘 Overview
+This repository contains beginner-friendly C# console applications designed to strengthen core programming concepts such as control flow, methods, exception handling, OOP, and basic .NET fundamentals.
+
+---
 <br />
 
 
 
-## Visual Studio 2022 Template used
-1. **Windows Forms App** (Calculator App)
-   * It contains GUI with controls like button, text box, grid, etc.
-   * Also these applications basicall rely on event-driven programming with user interactions like - click, inputs, etc.
-   * Useful in building desktop applications with a rich UI.
-   * Runs in a Windows environment and requires an event loop (Application.Run()).
+### 🔮 Project Lists
+✅  Calculator App <br />
+✅  Weather App <br />
 
-3. **Console App**
-   - It is a command-line application that interacts with users via text input and output.
-   - Runs linearly from Main() method without needing user interaction (event-driven logic).
-   - Suitable for batch processing, automation scripts, testing, and backend services.
-   - Runs in a console window (Command Prompt, Terminal).
+---
 <br />
 
 
 
-## 🤝 Contribution
-Want to improve this project? Follow these steps:
+### 🎯 Prerequisite Installation
+1️⃣ Download VS-2022 from Google. <br />
+2️⃣ Select .NET desktop development and click install. <br />
+3️⃣ This installs - .NET SDK, C# Compiler and Console templates. <br />
 
-- Fork the repository
-- Create a new branch (git checkout -b feature-branch)
-- Make your changes and commit (git commit -m "Added new feature")
-- Push to your forked repo (git push origin feature-branch)
-- Submit a Pull Request
+---
+<br />
+
+
+
+### 🎯 Project Installation & Setup in local
+1️⃣ Clone the repository using git command --> git clone https://github.com/Sachin-4-5/CSharp_Projects/CalculatorApp.git  <br />
+2️⃣ Navigate to project directory --> cd CalculatorApp  <br />
+3️⃣ Open .sln file by double clicking through Visual Studio. (Ensure .NET SDK installed in your local machine.) <br />
+4️⃣ Press F5 or click start to build and run the application. <br />
+
+---
+<br />
+
+
+
+### 📌 Project Configurations
+1️⃣ Project Name: CalculatorApp, WeatherApp   <br />
+2️⃣ Solution Name: MiniProject    <br />
+3️⃣ Framework: .NET 8 (LTS)    <br />
+4️⃣ Language: C#    <br />
+5️⃣ Template: Console Application    <br />
+
+---
+<br />
+
+
+
+### 🎓 Project Structure
+```
+bond-data-sync/
+│── CalculatorApp/
+│   ├── bin/             
+│   ├── obj/          
+│   ├── Program.cs      # Application entry point
+│   ├── Calculator.cs
+│   ├── CalculatorApp.csproj
+│── WeatherApp/
+│── MiniProject.sln                
+
+```
+
+---
+<br />
+
+
+
+### 🤝 Contribution
+Pull requests are welcome! To contribute:
+
+1️⃣ Fork the repo <br />
+2️⃣ Create a feature branch (git checkout -b feature-xyz) <br />
+3️⃣ Commit changes (git commit -m "Added feature xyz") <br />
+4️⃣ Push to your branch (git push origin feature-xyz) <br />
+5️⃣ Create a pull request 
+
+---
+<br />
+<br />
 
 
 
