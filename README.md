@@ -31,7 +31,7 @@ This repository contains beginner-friendly C# console applications designed to s
 
 
 ### 🎯 Project Installation & Setup in local
-1️⃣ Clone the repository using git command --> git clone https://github.com/Sachin-4-5/CSharp_Projects/CalculatorApp.git  <br />
+1️⃣ Clone the repository - git clone https://github.com/Sachin-4-5/CSharp_Projects/CalculatorApp.git  <br />
 2️⃣ Navigate to project directory --> cd CalculatorApp  <br />
 3️⃣ Open .sln file by double clicking through Visual Studio. (Ensure .NET SDK installed in your local machine.) <br />
 4️⃣ Press F5 or click start to build and run the application. <br />
@@ -55,7 +55,7 @@ This repository contains beginner-friendly C# console applications designed to s
 
 ### 🎓 Project Structure
 ```
-bond-data-sync/
+MiniProjects/
 │── CalculatorApp/
 │   ├── bin/             
 │   ├── obj/          
@@ -63,7 +63,7 @@ bond-data-sync/
 │   ├── Calculator.cs
 │   ├── CalculatorApp.csproj
 │── WeatherApp/
-│── MiniProject.sln                
+│── MiniProjects.sln                
 
 ```
 
