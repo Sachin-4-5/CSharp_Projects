@@ -14,6 +14,7 @@ This repository contains beginner-friendly C# console applications designed to s
 ### 🔮 Project Lists
 ✅  Calculator App <br />
 ✅  Weather App <br />
+✅ ExpenseTrackerApp <br />
 
 ---
 <br />
@@ -24,6 +25,9 @@ This repository contains beginner-friendly C# console applications designed to s
 1️⃣ Download VS-2022 from Google. <br />
 2️⃣ Select .NET desktop development and click install. <br />
 3️⃣ This installs - .NET SDK, C# Compiler and Console templates. <br />
+4️⃣ Create account on https://home.openweathermap.org/ for using WeatherAPI. <br />
+5️⃣ Then go to API Keys tab and use generated api key in appsettings.json file. <br />
+6️⃣ Note api key takes some time (around 1-2 hr) to get activated. <br />
 
 ---
 <br />
@@ -59,13 +63,33 @@ MiniProjects/
 │── CalculatorApp/
 │   ├── bin/             
 │   ├── obj/          
-│   ├── Program.cs      # Application entry point
+│   ├── Program.cs      
 │   ├── Calculator.cs
 │   ├── CalculatorApp.csproj
+│
 │── WeatherApp/
+│   ├── bin/             
+│   ├── obj/
+│   ├── Models/             
+│   ├── Services/            
+│   ├── appsettings.json
+│   ├── Program.cs
+│   ├── WeatherApp.csproj
 │── MiniProjects.sln                
 
 ```
+
+---
+<br />
+
+
+
+### 🚀 Future Enhancements
+✅ Improved error handling with meaningful HTTP status responses (401 / 404 / 500)  <br />
+✅ Request timeout handling to prevent long-running API calls  <br />
+✅ Retry mechanism for transient failures  <br />
+✅ Separation of concerns using DTO and Domain models  <br />
+✅ Centralized logging using a simple console-based logger  <br />
 
 ---
 <br />
