@@ -1,0 +1,15 @@
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
