@@ -1,0 +1,15 @@
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\bin\Debug\net8.0\ExpenseTrackerApp.exe
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\bin\Debug\net8.0\ExpenseTrackerApp.deps.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\bin\Debug\net8.0\ExpenseTrackerApp.runtimeconfig.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\bin\Debug\net8.0\ExpenseTrackerApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\bin\Debug\net8.0\ExpenseTrackerApp.pdb
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.AssemblyInfoInputs.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.AssemblyInfo.cs
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.sourcelink.json
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\refint\ExpenseTrackerApp.dll
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.pdb
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ExpenseTrackerApp.genruntimeconfig.cache
+C:\Users\pr667\OneDrive\Desktop\Projects\1. C#_Projects\MiniProjects\ExpenseTrackerApp\obj\Debug\net8.0\ref\ExpenseTrackerApp.dll
