@@ -14,7 +14,7 @@ This repository contains beginner-friendly C# console applications designed to s
 ### 🔮 Project Lists
 ✅  Calculator App <br />
 ✅  Weather App <br />
-✅ ExpenseTrackerApp <br />
+✅  ExpenseTrackerApp <br />
 
 ---
 <br />
@@ -46,7 +46,7 @@ This repository contains beginner-friendly C# console applications designed to s
 
 
 ### 📌 Project Configurations
-1️⃣ Project Name: CalculatorApp, WeatherApp   <br />
+1️⃣ Project Name: CalculatorApp, WeatherApp, ExpenseTrackerApp   <br />
 2️⃣ Solution Name: MiniProject    <br />
 3️⃣ Framework: .NET 8 (LTS)    <br />
 4️⃣ Language: C#    <br />
@@ -75,6 +75,16 @@ MiniProjects/
 │   ├── appsettings.json
 │   ├── Program.cs
 │   ├── WeatherApp.csproj
+│
+│── ExpenseTrackerApp/
+│   ├── bin/             
+│   ├── obj/
+│   ├── Models/             
+│   ├── Services/            
+│   ├── Utilities/
+│   ├── Program.cs
+│   ├── ExpenseTrackerApp.csproj
+│
 │── MiniProjects.sln                
 
 ```
